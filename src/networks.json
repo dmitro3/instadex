@@ -1,0 +1,21 @@
+{
+  "1132025": {
+    "name": "INSTACOIN",
+    "rpc": "http://144.172.94.145:8545",
+    "chainId": 1132025,
+    "explorer": "http://144.172.94.145",
+    "color": "#CC9B00",
+    "storage": "0x22e691ee826b2500B253c6839933b63f144a64Bc",
+    "multicall": "0x5D50629563395620183b776D31C1A4843fC466df",
+    "baseCurrency": {
+      "decimals": 18,
+      "name": "INST",
+      "symbol": "INST"
+    },
+    "wrappedToken": {
+      "address": "0x66fef3F30c887B5fD55dacb1dE3bBacfCf021603",
+      "name": "Wrapped INST",
+      "symbol": "WINST"
+    }
+  }
+}
