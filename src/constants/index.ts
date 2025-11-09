@@ -7,7 +7,7 @@ export type NetworksId = keyof typeof networks
 
 export const INSTACOIN_ID = 1132025
 export const STORAGE_NETWORK_ID =
-  process.env.NODE_ENV === 'production' ? INSTACOIN_ID : 1132025
+  process.env.NODE_ENV === 'production' ? INSTACOIN_ID : 1
 export const STORAGE_NETWORK_NAME = networks[STORAGE_NETWORK_ID.toString() as NetworksId].name
 // @ts-ignore
 export const STORAGE = networks[STORAGE_NETWORK_ID.toString() as NetworksId].storage
