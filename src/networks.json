@@ -1,7 +1,7 @@
 {
   "1132025": {
     "name": "INSTACOIN",
-    "rpc": "http://144.172.94.145:8545",
+    "rpc": "https://rpc.coinsprediction.com",
     "chainId": 1132025,
     "explorer": "http://144.172.94.145",
     "color": "#CC9B00",
