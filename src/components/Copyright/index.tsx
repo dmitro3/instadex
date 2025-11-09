@@ -4,7 +4,7 @@ export default function Copyright() {
   return (
     <>
       Powered by{' '}
-      <a href="" target="_blank" rel="noopener noreferrer">
+      <a href="https://instadex.netlify.app" target="_blank" rel="noopener noreferrer">
       </a>
     </>
   )
